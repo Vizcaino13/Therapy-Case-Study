@@ -1,5 +1,5 @@
 # Therapy Company Case Study :office:
 
-🔵 This project analyzes customer reviews of British Airlines using web scraping with Python. Key findings include the most common words used in positive and negative reviews, the percentage of verified and unverified reviews, and the countries providing the most positive and negative reviews. The project also includes heat maps to visualize the data. Overall, the insights gained from this analysis can help British Airlines improve customer satisfaction and loyalty.
+🔵 This project utilizes Python to clean and visualize data on a healthcare intake center, providing insights on patient demographics, insurance, provider information, and registration trends. The aim is to identify opportunities for expanding the intake center's reach and attracting a more diverse patient population, including experimenting with alternative channels such as social media ads and email marketing campaigns. The code and visualizations are available for exploration and analysis.
 
 My findings are also available in presentation form in this [PowerPoint Presentation](https://docs.google.com/presentation/d/1X_RWy5c6pSrJ_LLrkuQOSMfQEUxZm19uQUsnwpz8iAU/edit#slide=id.p1)
