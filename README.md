@@ -1,1 +1,1 @@
-# Therapy Case Study
+# Therapy Comapny Case Study
